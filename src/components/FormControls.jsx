@@ -1,4 +1,4 @@
-import { Box, Typography, Select, MenuItem, TextField, OutlinedInput } from '@mui/material';
+import { Box, Typography, Select, MenuItem, TextField } from '@mui/material';
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 import FormControl from './FormControl';
 import EditIcon from '../assets/icons/edit.svg';
